@@ -26,15 +26,6 @@ Sou curioso, estou sempre buscando aprender algo novo e entender como as coisas 
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedronrs&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronrs&layout=compact&theme=radical"/>
-</div>
-
----
-
 ### 🤝 Conecte-se comigo
 
 - [LinkedIn](https://www.linkedin.com/in/pedronrs)  
